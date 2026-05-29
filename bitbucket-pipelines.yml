@@ -1,0 +1,8 @@
+pipelines:
+  branches:
+    prod:
+      import: shared-lambda-bitbucket-pipelines:prod:shared-rd-wemblee-lambda-pipeline-step
+
+services:
+  docker:
+    memory: 4096

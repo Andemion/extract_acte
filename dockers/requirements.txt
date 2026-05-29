@@ -1,0 +1,11 @@
+awslambdaric
+boto3
+dateparser
+jsonschema
+mistralai
+openai
+python-dotenv
+pyopenssl
+requests
+regex
+unidecode

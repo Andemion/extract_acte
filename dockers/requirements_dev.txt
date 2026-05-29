@@ -1,0 +1,13 @@
+awslambdaric
+boto3
+dateparser
+jsonschema
+mistralai
+openai
+pydevd_pycharm~=233.13135.95
+python-dotenv
+pyopenssl
+requests
+regex
+tornado
+unidecode
